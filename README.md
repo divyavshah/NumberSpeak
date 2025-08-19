@@ -39,3 +39,7 @@ python numberspeak.py
 ## Screenshots
 
 ![Upload File](converter.jpg)
+
+## Contributing
+
+Contributions are welcome! Please submit issues or pull requests for improvements.
